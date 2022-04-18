@@ -1,0 +1,23 @@
+[33mcommit 30b3201176d815b9bb8fcde840af53d0e15ff54d[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/update-py-files[m[33m)[m
+Author: Oleh Tarnavchuk <olegtar25@gmail.com>
+Date:   Mon Apr 18 12:45:10 2022 +0300
+
+    updated main file added range
+
+[33mcommit 790bfe1f4503ef4af555b5ca7997724462aee9a5[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Oleh Tarnavchuk <olegtar25@gmail.com>
+Date:   Sun Apr 17 22:41:53 2022 +0300
+
+    added .gitignore file
+
+[33mcommit 78723e229736fbd046c32d4f83cc58a5625236aa[m[33m ([m[1;32mdevelopment[m[33m)[m
+Author: Oleh Tarnavchuk <olegtar25@gmail.com>
+Date:   Sun Apr 17 22:37:14 2022 +0300
+
+    added print to main.py
+
+[33mcommit 709589a6e222dd42e6abfba6cb0b430251ba3c44[m
+Author: Oleh Tarnavchuk <olegtar25@gmail.com>
+Date:   Sun Apr 17 22:31:25 2022 +0300
+
+    all py files added to the project
